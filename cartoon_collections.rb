@@ -31,4 +31,3 @@ def find_valid_calls(planeteer_calls)
       puts element
 end
 end
-end
