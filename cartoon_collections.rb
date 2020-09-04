@@ -29,3 +29,4 @@ def find_valid_calls(planeteer_calls)
   empty_array = []
   planeteer_calls.include?  |valid_calls|
 end
+end
