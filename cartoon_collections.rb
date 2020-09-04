@@ -31,5 +31,5 @@ def find_valid_calls(planeteer_calls)
      element = valid_calls
       element << empty_array
 end
-empty_array
+
 end
