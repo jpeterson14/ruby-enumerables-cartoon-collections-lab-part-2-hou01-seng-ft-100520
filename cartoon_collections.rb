@@ -30,4 +30,3 @@ def find_valid_calls(planeteer_calls)
   planeteer_calls.include?  |element|
      element == valid_calls
 end
-end
